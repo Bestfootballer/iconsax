@@ -1,0 +1,43 @@
+name: iconsax
+description: "A new Flutter package project."
+version: 0.0.1
+homepage:
+
+environment:
+  sdk: ^3.5.4
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter packages.
+flutter:
+
+  fonts:
+    - family: IconsaxBold
+      fonts:
+        - asset: fonts/IconsaxBold.ttf
+    - family: IconsaxBroken
+      fonts:
+        - asset: fonts/IconsaxBroken.ttf
+    - family: IconsaxBulk
+      fonts:
+        - asset: fonts/IconsaxBulk.ttf
+    - family: IconsaxLinear
+      fonts:
+        - asset: fonts/IconsaxLinear.ttf
+    - family: IconsaxOutline
+      fonts:
+        - asset: fonts/IconsaxOutline.ttf
+    - family: IconsaxTwotone
+      fonts:
+        - asset: fonts/IconsaxTwotone.ttf
